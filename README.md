@@ -18,9 +18,8 @@ MyBKExperience is a modern and interactive expense tracking application built to
 - Node.js (for development server)
 
 ## Author
-**Name:** DevNodeX  
-**Email:** devnodex@protonmail.com  
-**Website:** [mybkexperience](https://www.mybkexperience.com)
+**Name:** 
+**Email:** 
 
 An experienced full-stack developer with over 10 years of hands-on experience in web technologies. Master in JavaScript frameworks, API integrations, and building intuitive user experiences. Passionate about open-source and mentoring beginners in tech.
 
